@@ -1,3 +1,8 @@
+### Movie App
+
+![movie app](https://user-images.githubusercontent.com/32738765/92312291-c8428b00-efd8-11ea-8929-cfbbaa840903.JPG)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
